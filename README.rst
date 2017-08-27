@@ -6,6 +6,6 @@
   the settings.
 * ``SECRET_KEY``: required by Django. See https://docs.djangoproject.com/en/1.9/ref/settings/#std:setting-SECRET_KEY
 
-Set these envvars in your shell (see discord-bot.ini).
+Set these envvars in your shell or through the django settings file.
 
 Then make the db tables through django, and launch the bot using main.py
